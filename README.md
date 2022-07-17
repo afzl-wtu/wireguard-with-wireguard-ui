@@ -1,3 +1,7 @@
+# Purpose
+The purpose of this fork is to modify the script and make it to work with [wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) direct binanry (No Docker). Becuase this script makes wireguard installation very easy and wireguard-ui makes interface very good.
+But due to some reason any client I generate with wireguard-ui does not work at all. So Let generate all clients and remove them with script and monitor only ui with wireguard-ui. 
+
 ## wireguard-install
 WireGuard [road warrior](http://en.wikipedia.org/wiki/Road_warrior_%28computing%29) installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora.
 
